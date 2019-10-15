@@ -22,4 +22,4 @@ The softwares and tools used to complete the project are listed below and these 
 #### Key References
 
 - Boston Housing Dataset 
-[https://www.kaggle.com/c/boston-housing](https://www.kaggle.com/c/boston-housing)
+  - [https://www.kaggle.com/c/boston-housing](https://www.kaggle.com/c/boston-housing)
