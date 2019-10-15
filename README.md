@@ -8,7 +8,7 @@ The softwares installed to do the project are listed below.
   - Jupyter notebook package (part of Anaconda Distrubution)
  
 ### High-level project plan
-| Component                       |   Planned Completion Date        |  Actual Completion Date   |
+| Sections/Phases                 |   Planned Completion Date        |  Actual Completion Date   |
 |---------------------------------|:--------------------------------:| -------------------------:|
 | Part 1 - Describe               |   24-October-2019                |                           |
 | Part 2 - Infer                  |   10-November-2019               |                           |
