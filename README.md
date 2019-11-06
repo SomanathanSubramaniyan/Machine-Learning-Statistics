@@ -8,6 +8,8 @@ The softwares and tools used to complete the project are listed below and these 
   - Anaconda 2019.07 for Windows Installer
   - python 3.7 version
   - Jupyter notebook package (part of Anaconda Distrubution)
+  - Install "researchpy" packate using the below command
+    - conda install -c researchpy researchpy
  
 #### High-level project plan
 
