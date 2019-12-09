@@ -10,6 +10,7 @@ The softwares and tools used to complete the project are listed below and these 
   - Jupyter notebook package (part of Anaconda Distrubution)
   - Install "researchpy" packate using the below command
     - conda install -c researchpy researchpy
+   - Install keras and tensorflow
  
 #### High-level project plan
 
@@ -25,6 +26,6 @@ The softwares and tools used to complete the project are listed below and these 
 
 - Section 3 - Dervie optimisation parameter is conditionally modified NOT to execute as this section would take atleast 20 minutes to run.
 - The above section of code was used to identify the right activation and optimsation parameters
-- If required, the "CHECK" variable can be modifed as "yes" to execute this part of the code
+- If you want to execute, the "CHECK" variable need to be modifed as "yes" to execute this part of the code
 
 
