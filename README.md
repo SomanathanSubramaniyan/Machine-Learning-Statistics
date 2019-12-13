@@ -19,7 +19,7 @@ The softwares and tools used to complete the project are listed below and these 
 | Part 1 - Describe               |   24-October-2019                |   01-November-2019        |
 | Part 2 - Infer                  |   10-November-2019               |   20-November-2019        |
 | Part 3 - Predict                |   24-November-2019               |   01-December-2019        |
-| Review                          |   27-November-2019               |                           |
+| Review                          |   27-November-2019               |   13-December-2019        |
 | Submission                      |   28-November-2019               |   October-2019            |
 
 #### Key points
